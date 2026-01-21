@@ -1,0 +1,15 @@
+{
+    'o19:add_si_to_object': {
+        'filter': {
+            'loading_tags': {'I', },
+            'instance': {'object', },
+            'tunings': {'object_sim', },  # 14965
+        },
+        'actions': {
+            'add_mixers': {
+                'xpath': "/I/L[@n='_super_affordances']",
+                'add': [{'tag': 'T', 'text': '11490755141594596099'}, ],  # changeMyStyle_FromPicker based on changeOutfit_FromPicker
+            },
+        },
+    },
+}
