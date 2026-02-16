@@ -28,9 +28,12 @@ class ModInfo(CommonModInfo):
 
     @property
     def _version(self) -> str:
-        return '0.0.1'
+        return '1.0.1'
 
 
 r"""
-v0.0.1
+v1.0.1
+    Document 'no special outfit' behaviour (exception thrown)
+v1.0.0
+    Initial version
 """

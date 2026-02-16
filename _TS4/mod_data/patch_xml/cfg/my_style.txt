@@ -1,5 +1,5 @@
 {
-    'o19:add_si_to_object': {
+    'o19:my_style:add_si_to_object': {
         'filter': {
             'loading_tags': {'I', },
             'instance': {'object', },

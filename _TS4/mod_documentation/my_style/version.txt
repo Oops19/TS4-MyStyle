@@ -1,5 +1,5 @@
-MyStyle v0.0.1 for The Sims 4 v1.120.140 and S4CL v3.17
-Created on 2026-01-23
-v0.0.1
-"""
+MyStyle v1.0.1 for The Sims 4 v1.121.361 and S4CL v3.19
+Created on 2026-02-12
+v1.0.1
+    Document 'no special outfit' behaviour (exception thrown)
 
