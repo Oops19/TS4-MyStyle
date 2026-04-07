@@ -32,6 +32,7 @@ class ModInfo(CommonModInfo):
 
 
 r"""
+# Fix Child Exception
 v1.0.1
     Document 'no special outfit' behaviour (exception thrown)
 v1.0.0
