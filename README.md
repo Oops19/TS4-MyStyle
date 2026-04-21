@@ -2,7 +2,7 @@
 This tiny mod adds 'Outfits ...' > 'My Style' to the game.
 It opens the outfit picker for available special outfits which are normally not available to select directly.
 
-If the sim has no special outfit nothing can be selected.
+If the sim has no special outfit nothing can be selected and an exception is thrown.
 Usually some of these are displayed:
 * Bathing
 * Situation
@@ -34,7 +34,7 @@ This mod requires [TS4 Patch‑XML](https://github.com/Oops19/TS4-PatchXML) to r
 # 📝 Addendum
 
 ## 🔄 Game compatibility
-This mod has been tested with `The Sims 4` 1.121.372, S4CL 3.20, TS4Lib 0.3.42.
+This mod has been tested with `The Sims 4` 1.122.218, S4CL 3.20, TS4Lib 0.3.42.
 It is expected to remain compatible with future releases of TS4, S4CL, and TS4Lib.
 
 ## 📦 Dependencies
